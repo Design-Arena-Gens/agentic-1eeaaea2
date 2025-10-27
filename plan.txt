@@ -1,0 +1,5 @@
+✅ 1. Inspect repo structure; init project if empty.
+✅ 2. Implement web app enabling appointment-calling AI workflow (UI + backend stubs).
+✅ 3. Add AI appointment logic (LLM prompt handling) using mock API for calls.
+✅ 4. Configure deployment scripts/settings (package.json, next config).
+✅ 5. Run lint/build/tests as available; adjust for issues.
